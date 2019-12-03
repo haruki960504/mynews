@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Myprofile</title>
+        <title>myprofile</title>
     </head>
     <body>
         <h1>myプロフィール編集画面</h1>
